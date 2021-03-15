@@ -6,6 +6,7 @@
 	"version": "0.1.0",
 	"minimumCoreVersion": "0.6.0",
 	"compatibleCoreVersion":"0.7.9",
+	"system":"demonlord",
 	"packs": [
     	{
       	    "name": "ammon-addon",
@@ -115,6 +116,6 @@
 	],
     "url": "https://github.com/TI-130/demonlord-chn-addon",
     "manifest": "https://raw.githubusercontent.com/TI-130/demonlord-chn-addon/master/module.json",
-    "download": "https://github.com/TI-130/demonlord_chn/releases/download/0.1/demonlord-chn-addon.zip"		
+    "download": "https://github.com/TI-130/demonlord-chn-addon/releases/download/0.1/demonlord-chn-addon.zip"		
 }
 		
