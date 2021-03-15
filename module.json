@@ -1,0 +1,117 @@
+{
+	"name": "demonlord-chn-addon",
+	"title": "魔王之影内容包",
+	"description": "包含魔王之影的核心内容。",
+	"author": "HXQXH",
+	"version": "0.1.0",
+	"minimumCoreVersion": "0.6.0",
+	"compatibleCoreVersion":"0.7.9",
+	"packs": [
+    	{
+      	    "name": "ammon-addon",
+      		"label": "弹药",
+      		"path": "packs/ammo-addon.db",
+			"system": "demonlord",
+      		"entity": "Item"
+		},
+        {
+            "name": "armor-addon",
+            "label": "护甲",
+            "path": "packs/armor-addon.db",
+			"system": "demonlord",
+            "entity": "Item"
+        },
+        {
+            "name": "cloth-addon",
+            "label": "衣物",
+            "path": "packs/cloth-addon.db",
+			"system": "demonlord",
+            "entity": "Item"
+        },
+        {
+            "name": "follower-and-animal-addon",
+            "label": "雇工与动物",
+            "path": "packs/follower-and-animal-addon.db",
+			"system": "demonlord",
+            "entity": "Item"
+        },
+        {
+            "name": "item-addon",
+            "label": "冒险物品",
+            "path": "packs/item-addon.db",
+			"system": "demonlord",
+            "entity": "Item"
+        },
+        {
+            "name": "language-addonn",
+            "label": "语言",
+            "path": "packs/language-addon.db",
+			"system": "demonlord",
+            "entity": "Item"
+        },
+        {
+            "name": "novice-path-addon",
+            "label": "入门道途",
+            "path": "packs/novice-path-addon.db",
+			"system": "demonlord",
+            "entity": "Item"
+        },
+        {
+            "name": "novice-path-talent-addon",
+            "label": "入门道途天赋",
+            "path": "packs/novice-path-talent-addon",
+			"system": "demonlord",
+            "entity": "Item"
+        },
+        {
+            "name": "ammon-addon",
+            "label": "弹药",
+            "path": "packs/ammo-addon.db",
+			"system": "demonlord",
+            "entity": "Item"
+        },
+        {
+            "name": "profession-addon",
+            "label": "专业",
+            "path": "packs/profession-addon.db",
+			"system": "demonlord",
+            "entity": "Item"
+        },
+        {
+            "name": "race-addon",
+            "label": "种族",
+            "path": "packs/race-addon.db",
+			"system": "demonlord",
+            "entity": "Item"
+        },
+        {
+            "name": "race-talent-addon",
+            "label": "种族天赋",
+            "path": "packs/race-talent-addon.db",
+			"system": "demonlord",
+            "entity": "Item"
+        },
+        {
+            "name": "tool-addon",
+            "label": "工具",
+            "path": "packs/tool-addon.db",
+			"system": "demonlord",
+            "entity": "Item"
+        },
+        {
+            "name": "trinket-addon",
+            "label": "有趣的小玩意",
+            "path": "packs/trinket-addon.db",
+			"system": "demonlord",
+            "entity": "Item"
+        },
+        {
+            "name": "weapon-addon",
+            "label": "武器",
+            "path": "packs/weapon-addon.db",
+			"system": "demonlord",
+            "entity": "Item"
+        }
+	]		
+}
+		

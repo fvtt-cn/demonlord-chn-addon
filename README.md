@@ -1,0 +1,2 @@
+# demonlord-chn-addon
+ 
