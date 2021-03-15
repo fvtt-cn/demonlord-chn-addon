@@ -112,6 +112,9 @@
 			"system": "demonlord",
             "entity": "Item"
         }
-	]		
+	],
+    "url": "https://github.com/TI-130/demonlord-chn-addon",
+    "manifest": "https://raw.githubusercontent.com/TI-130/demonlord-chn-addon/master/module.json",
+    "download": "https://github.com/TI-130/demonlord_chn/releases/download/0.9.2/demonlord_chn.zip"		
 }
 		
