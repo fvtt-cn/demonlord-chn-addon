@@ -60,7 +60,7 @@
         {
             "name": "novice-path-talent-addon",
             "label": "入门道途天赋",
-            "path": "packs/novice-path-talent-addon",
+            "path": "packs/novice-path-talent-addon.db",
 			"system": "demonlord",
             "entity": "Item"
         },
