@@ -1,6 +1,9 @@
-# 魔王之影核心补充包
- 使用方法：
- 将以下链接复制进module的安装页面中，然后点击确认即可。
- https://raw.githubusercontent.com/TI-130/demonlord-chn-addon/master/module.json
+# 魔王之影内容补充包
+By HXQXH
 
-目前暂缺法术以及入门以外的其他道途。
+## 安装方法
+- 使用模组管理器搜索`魔王之影汉化`并安装
+- 使用链接手动安装，清单文件地址 [ https://raw.githubusercontent.com/TI-130/demonlord-chn-addon/master/module.json](https://raw.githubusercontent.com/TI-130/demonlord-chn-addon/master/module.json)
+
+## 鸣谢
+**本汉化对应Robert J. Schwalb所撰《魔王之影Shadow of the Demon Lord》一书之内容。其中文翻译的版权归各译者所有，译者名单：欧德，艾泽拉多夫斯基，尼可波拉斯，吉吉，左摄提三，海豹，五大湖，豪哥。同时也感谢该系统原作者Xacus。此外感谢Shiki提供的法术合集包。**
