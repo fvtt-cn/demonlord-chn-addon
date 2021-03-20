@@ -3,7 +3,7 @@
 	"title": "魔王之影内容包",
 	"description": "包含魔王之影的核心内容。",
 	"author": "HXQXH",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"minimumCoreVersion": "0.6.0",
 	"compatibleCoreVersion":"0.7.9",
 	"system":"demonlord",
