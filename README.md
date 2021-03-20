@@ -2,7 +2,7 @@
 By HXQXH
 
 ## 安装方法
-- 使用模组管理器搜索`魔王之影汉化`并安装
+- 该模组无法使用模组管理器安装
 - 使用链接手动安装，清单文件地址 [ https://raw.githubusercontent.com/TI-130/demonlord-chn-addon/master/module.json](https://raw.githubusercontent.com/TI-130/demonlord-chn-addon/master/module.json)
 
 ## 鸣谢
