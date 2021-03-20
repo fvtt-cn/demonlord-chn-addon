@@ -112,10 +112,17 @@
             "path": "packs/weapon-addon.db",
 			"system": "demonlord",
             "entity": "Item"
+        },
+        {
+            "name": "magic-addon",
+            "label": "法术",
+            "path": "packs/magic-addon.db",
+			"system": "demonlord",
+            "entity": "Item"
         }
 	],
     "url": "https://github.com/TI-130/demonlord-chn-addon",
     "manifest": "https://raw.githubusercontent.com/TI-130/demonlord-chn-addon/master/module.json",
-    "download": "https://github.com/TI-130/demonlord-chn-addon/releases/download/0.1/demonlord-chn-addon.zip"		
+    "download": "https://github.com/TI-130/demonlord-chn-addon/releases/download/0.2/demonlord-chn-addon.zip"		
 }
 		
