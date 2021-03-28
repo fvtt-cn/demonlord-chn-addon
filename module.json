@@ -3,7 +3,7 @@
 	"title": "魔王之影内容包",
 	"description": "包含魔王之影的核心内容。",
 	"author": "HXQXH",
-	"version": "0.3.0",
+	"version": "0.3.1",
 	"minimumCoreVersion": "0.6.0",
 	"compatibleCoreVersion":"0.7.9",
 	"system":"demonlord",
@@ -123,5 +123,5 @@
 	],
     "url": "https://github.com/TI-130/demonlord-chn-addon",
     "manifest": "https://raw.githubusercontent.com/TI-130/demonlord-chn-addon/master/module.json",
-    "download": "https://github.com/TI-130/demonlord-chn-addon/releases/download/0.3/demonlord-chn-addon.zip"		
+    "download": "https://github.com/TI-130/demonlord-chn-addon/releases/download/0.3.1/demonlord-chn-addon.zip"		
 }
